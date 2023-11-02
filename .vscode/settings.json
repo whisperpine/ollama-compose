@@ -4,5 +4,8 @@
     },
     "files.readonlyInclude": {
         "LICENSE": true,
-    }
+    },
+    "cSpell.words": [
+        "Ollama"
+    ]
 }
