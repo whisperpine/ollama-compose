@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "LICENSE": "plaintext"
+    },
+    "files.readonlyInclude": {
+        "LICENSE": true,
+    },
+    "cSpell.words": [
+        "Ollama"
+    ]
+}
